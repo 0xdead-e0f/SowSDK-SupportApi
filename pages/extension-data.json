@@ -1,0 +1,21 @@
+{
+    "eth":          "ENS",
+    "ens":          "ENS",
+    "bnb":          "SpaceId",
+    "crypto":       "UnstoppableDomains",
+    "x":            "UnstoppableDomains",
+    "polygon":      "UnstoppableDomains",
+    "zil":          "UnstoppableDomains",
+    "nft":          "UnstoppableDomains",
+    "wallet":       "UnstoppableDomains",
+    "dao":          "UnstoppableDomains",
+    "blockchain":   "UnstoppableDomains",
+    "bitcoin":      "UnstoppableDomains",
+    "bit":          "DotBit",
+    "zk":           "Zkns",
+    "osmo":         "ICNS",
+    "stars":        "StargazeDomains",
+    "sol":          "Bonfida",
+    "sui":          "SuiNs",
+    "apt":          "AptosNs"
+}
